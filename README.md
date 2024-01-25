@@ -3,12 +3,17 @@ Sample WebPage for Webserver Directory | [Open with new tab](https://www.rapidta
 
 
 ```
+<!DOCTYPE html>
+<html>
 <head>
-<title> Website </title>
+<title> Coffee Quotes </title>
 </head>
 <body>
-<h1> This is Coffee. </h1>
-<p> This is paragraph </p>
+<h1> Rise and grind, it's coffee time!. </h1>
+<h2> Life begins after coffee. </h2>
+<h3> Just brewed happiness in a cup! </h3>
+<p> Another day, another cup of coffee. </p>
 <img src="web-address/coffee.png" alt="Storage">
 </body>
+</html>
 ```
