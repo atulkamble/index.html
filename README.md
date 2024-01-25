@@ -1,5 +1,5 @@
 # index.html
-Sample Page for Webserver Directory
+Sample WebPage for Webserver Directory
 
 ```
 <head>
