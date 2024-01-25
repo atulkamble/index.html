@@ -1,5 +1,5 @@
 # index.html
-Sample WebPage for Webserver Directory | [Save as](https://www.rapidtables.com/tools/notepad.html) index.html
+Sample WebPage for Webserver Directory | [Save as | Open with new tab](https://www.rapidtables.com/tools/notepad.html) index.html
 
 
 ```
